@@ -11,6 +11,6 @@
   "author": "Leonardo Fernández <leonardo99112821385@gmail.com>",
   "license": "ISC",
   "devDependencies": {
-    "gh-pages": "^5.0.0"
+    "gh-pages": "^3.0.0"
   }
 }
